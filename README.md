@@ -1,2 +1,1 @@
-# personal-projects
-My personal projects
+# C Program for Bisection Method
